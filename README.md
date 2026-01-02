@@ -122,7 +122,8 @@ The following requirements apply to deployments in **Indonesia**. Specifications
 
 ## Architecture Diagram
 
-> _(Insert architecture diagram here)_
+![Architecture Diagram](images/Architecture-Diagram.webp)
+
 
 ---
 
@@ -142,6 +143,7 @@ The following requirements apply to deployments in **Indonesia**. Specifications
 ## Compute Resources
 
 ### Kubernetes Clusters (EKS)
+![Kubernetes Clusters](images/Kubernetes-Clusters.webp)
 
 SMILE operates **two separate EKS clusters**.
 
